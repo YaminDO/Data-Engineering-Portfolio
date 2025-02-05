@@ -8,10 +8,9 @@
     -  [Bridging the Gap](https://github.com/YaminDO/Data-Engineering-Portfolio/blob/main/README.md#bridging-the-gap)
     -  [What Drives Me](https://github.com/YaminDO/Data-Engineering-Portfolio/blob/main/README.md#what-drives-me)
  -  [Projects](https://github.com/YaminDO/Data-Engineering-Portfolio/blob/main/README.md#projects)
-     - [Python]
+     - [Python](https://github.com/YaminDO/Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard)
      - [Power BI](https://www.novypro.com/project/adventure-works-dashboard-8)
-     - [Excel]
-     - [SQL]
+     - [Data Visuaalization](https://bit.ly/47J0sZl)
      - [Tableau]
  -  [Educational Background](https://github.com/YaminDO/Data-Engineering-Portfolio/blob/main/README.md#educational-background)
  -  [Certifications](https://github.com/YaminDO/Data-Engineering-Portfolio/blob/main/README.md#certifications)
@@ -63,17 +62,13 @@ What drives me in my new role is the opportunity to harness data's transformativ
 As an aspiring data analyst, I'm dedicated to honing my skills and knowledge in the dynamic world of data. My journey has been marked by a commitment to continuous learning and professional growth, as exemplified by my recent certifications. These certifications are a testament to my dedication to the field of data analysis and my readiness to take on new challenges.
 Here are some of the certifications I've recently earned:
 
-- **Certified Data Analyst (CDA)**
-  - *Issuing Organization:* [Certifying Body]
-  - *Date of Certification:* [Month Year]
+- **AWS Academy Data Engineering**
+  - [AWS:](https://www.credly.com/badges/29c0c11a-03f4-4556-ba43-b6fd35c8fbb8/linked_in_profile)
+  - [Date of Certification:] [Jan 2025]
 
-- **Data Science Fundamentals**
-  - *Issuing Organization:* [Certifying Body]
-  - *Date of Certification:* [Month Year]
-
-- **Advanced SQL for Data Analysts**
-  - *Issuing Organization:* [Certifying Body]
-  - *Date of Certification:* [Month Year]
+- **IBM Data Analyst**
+  - [IBM:](https://www.coursera.org/account/accomplishments/professional-cert/NVD3Y3PTTJY8?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=prof)
+  - *Date of Certification:* [Oct 2024]
 
 These certifications validate my proficiency in key areas of data analysis and underscore my ability to apply best practices in the field. They are a reflection of my drive to deliver data-driven insights, solve complex problems, and contribute effectively in my role as a data analyst.
 
