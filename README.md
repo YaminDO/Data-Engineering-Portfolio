@@ -2,20 +2,20 @@
 
 # Table of Contents 
 
--  [About Me](https://github.com/YaminDO/Data-Analyst-Portfolio/blob/main/README.md#about-me)
-    -  [My Journey](https://github.com/YaminDO/Data-Analyst-Portfolio/blob/main/README.md#my-journey)
-    -  [The Transition](https://github.com/YaminDO/Data-Analyst-Portfolio/blob/main/README.md#the-transition)
-    -  [Bridging the Gap](https://github.com/YaminDO/Data-Analyst-Portfolio/blob/main/README.md#bridging-the-gap)
-    -  [What Drives Me](https://github.com/YaminDO/Data-Analyst-Portfolio/blob/main/README.md#what-drives-me)
- -  [Projects](https://github.com/YaminDO/Data-Analyst-Portfolio/blob/main/README.md#projects)
+-  [About Me](https://github.com/YaminDO/Data-Engineering-Portfolio/blob/main/README.md#about-me)
+    -  [My Journey](https://github.com/YaminDO/Data-Engineering-Portfolio/blob/main/README.md#my-journey)
+    -  [The Transition](https://github.com/YaminDO/Data-Engineering-Portfolio/blob/main/README.md#the-transition)
+    -  [Bridging the Gap](https://github.com/YaminDO/Data-Engineering-Portfolio/blob/main/README.md#bridging-the-gap)
+    -  [What Drives Me](https://github.com/YaminDO/Data-Engineering-Portfolio/blob/main/README.md#what-drives-me)
+ -  [Projects](https://github.com/YaminDO/Data-Engineering-Portfolio/blob/main/README.md#projects)
      - [Python]
      - [Power BI](https://www.novypro.com/project/adventure-works-dashboard-8)
      - [Excel]
      - [SQL]
      - [Tableau]
- -  [Educational Background](https://github.com/YaminDO/Data-Analyst-Portfolio/blob/main/README.md#educational-background)
- -  [Certifications](https://github.com/YaminDO/Data-Analyst-Portfolio/blob/main/README.md#certifications)
- -  [ Contact Me](https://github.com/YaminDO/Data-Analyst-Portfolio/blob/main/README.md#contactme)
+ -  [Educational Background](https://github.com/YaminDO/Data-Engineering-Portfolio/blob/main/README.md#educational-background)
+ -  [Certifications](https://github.com/YaminDO/Data-Engineering-Portfolio/blob/main/README.md#certifications)
+ -  [ Contact Me](https://github.com/YaminDO/Data-Engineering-Portfolio/blob/main/README.md#contactme)
    
 ## About Me
 Experienced Data Engineer | FinTech | AWS | Python | SQL
